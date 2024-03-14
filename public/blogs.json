@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover_img": "https://i.ibb.co/gmbwXdY/cover-1.jpg",
+      "title": "The Enigmatic Journey",
+      "author": "Amanda J. Reynolds",
+      "author_img": "https://i.ibb.co/1RmkM8D/author-1.jpg",
+      "posted_date": "March 9, 2024",
+      "reading_time": 5,
+      "hashtags": ["#mystery", "#adventure", "#fiction"]
+    },
+    {
+      "id": 2,
+      "cover_img": "https://i.ibb.co/fqc7mVJ/cover-2.jpg",
+      "title": "Echoes of Eternity",
+      "author": "Benjamin K. Patterson",
+      "author_img": "https://i.ibb.co/nDd90dT/author-2.jpg",
+      "posted_date": "March 8, 2024",
+      "reading_time": 4,
+      "hashtags": ["#fantasy", "#time-travel", "#epic"]
+    },
+    {
+      "id": 3,
+      "cover_img": "https://i.ibb.co/nzYkytf/cover-3.jpg",
+      "title": "Whispers in the Wind",
+      "author": "Lydia M. Stone",
+      "author_img": "https://i.ibb.co/zGPbn32/author-3.jpg",
+      "posted_date": "March 7, 2024",
+      "reading_time": 10,
+      "hashtags": ["#romance", "#suspense", "#contemporary"]
+    },
+    {
+      "id": 4,
+      "cover_img": "https://i.ibb.co/kyXDpNV/cover-4.jpg",
+      "title": "Shadows of Silence",
+      "Author": "Michael R. Adams",
+      "author_img": "https://i.ibb.co/5LQdnDM/author-4.jpg",
+      "posted_date": "March 6, 2024",
+      "reading_time": 9,
+      "hashtags": ["#thriller", "#mystery", "#crime"]
+    },
+    {
+      "id": 5,
+      "cover_img": "https://i.ibb.co/NrDtqvG/cover-5.jpg",
+      "title": "The Luminescent Garden",
+      "author": "Emily S. Carter",
+      "author_img": "https://i.ibb.co/d0sxjVS/author-5.jpg",
+      "posted_date": "March 5, 2024",
+      "reading_time": 8,
+      "hashtags": ["#science-fiction", "#dystopian", "#adventure"]
+    }
+  ]
+  
