@@ -17,7 +17,7 @@
       "author_img": "https://i.ibb.co/nDd90dT/author-2.jpg",
       "posted_date": "March 8, 2024",
       "reading_time": 4,
-      "hashtags": ["#fantasy", "#time-travel", "#epic"]
+      "hashtags": ["#fantasy", "#time_travel", "#epic"]
     },
     {
       "id": 3,
@@ -47,7 +47,7 @@
       "author_img": "https://i.ibb.co/d0sxjVS/author-5.jpg",
       "posted_date": "March 5, 2024",
       "reading_time": 8,
-      "hashtags": ["#science-fiction", "#dystopian", "#adventure"]
+      "hashtags": ["#science_fiction", "#dystopian", "#adventure"]
     }
   ]
   
