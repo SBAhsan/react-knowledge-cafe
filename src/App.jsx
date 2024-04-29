@@ -29,7 +29,7 @@ function App() {
       <Header></Header>
       <div className='md:flex max-w-7xl mx-auto'>
         <Blogs handleAddToBookmarks={handleAddToBookmarks} handleMarkAsRead={handleMarkAsRead}></Blogs>
-        <Bookmarks bookmarks={bookmarks} readingTime={readingTime}></Bookmarks>
+        <Bookmarks /* after setting newBookmarks sending it to Bookmarks.jsx */ bookmarks={bookmarks} readingTime={readingTime}></Bookmarks>
       </div>
     </>
   )
